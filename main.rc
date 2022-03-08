@@ -1,0 +1,6 @@
+#ifndef _RC_MAIN_SNAKEGAME_
+#define _RC_MAIN_SNAKEGAME_
+
+ICONMAIN ICON "ico.ico"
+
+#endif//_RC_MAIN_SNAKEGAME_

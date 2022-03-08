@@ -1,0 +1,16 @@
+   w
+a s d
+
+w=up
+
+s=down
+
+d=right
+
+a=left
+
+F1=exit Game
+
+AmirMohamd Poresmi
+gethub : ampitirget
+;-)
